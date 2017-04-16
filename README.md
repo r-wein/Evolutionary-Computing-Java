@@ -25,6 +25,8 @@ To run this Evolutionary Computing System, you need to first set up a few parame
 
 Once all parameters are set, you may pass them to the ECSystem and you are ready to go.
 
+![Example Parameters](ECParameters.png)
+
 ### Resources
 To evaluate the String expressions in this project, I used [exp4j](http://www.objecthunter.net/exp4j/).
 
