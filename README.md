@@ -5,7 +5,7 @@ functions by using elements of natural selection, genetic inheritance, and mutat
 ## Program Sample
 ![EC System Demo Java](ECJava-2.gif)
 
-The numbers shown above the results are the fitness values of the most fit individuals in each generation.
+The numbers shown above the results are the fitness values of the most fit individual in each generation.
 
 ## About this Project
 ### Origin
