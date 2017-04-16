@@ -7,7 +7,7 @@ functions by using elements of natural selection, genetic inheritance, and mutat
 
 ## About this Project
 ### Origin
-This is my final project for a software engineering class I took in the Summer of 2016.  It absolutely works, but many design decisions and coding practices show my inexperience at this.  I have plans to improve this program in the coming future.      
+This is my final project for a software engineering class I took in the Summer of 2016.  It absolutely works, but many design decisions and coding practices show my inexperience at this.  I have plans to improve this project in the coming future.      
 
 ### Functionality
 To run this Evolutionary Computing System, you need to first set up a few parameters first.
@@ -24,7 +24,7 @@ To run this Evolutionary Computing System, you need to first set up a few parame
 Once all parameters are set, you may pass them to the ECSystem and you are ready to go.
 
 ### Resources
-To evalute the String expressions in this project, I used [exp4j](http://www.objecthunter.net/exp4j/).
+To evaluate the String expressions in this project, I used [exp4j](http://www.objecthunter.net/exp4j/).
 
 
 
