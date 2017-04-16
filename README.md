@@ -3,7 +3,7 @@ Evolutionary Computing (EC) is a software engineering paradigm based on Charles 
 functions by using elements of natural selection, genetic inheritance, and mutation in order to solve a problem.  This program is able to generate an equivalent expression to a given set of x and y coordinates.
 
 ## Program Sample
-![EC System Demo Java](ECSystemJava.gif)
+![EC System Demo Java](ECJava.gif)
 
 ## About this Project
 ### Origin
