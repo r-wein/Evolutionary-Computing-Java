@@ -5,6 +5,8 @@ functions by using elements of natural selection, genetic inheritance, and mutat
 ## Program Sample
 ![EC System Demo Java](ECJava-2.gif)
 
+The stream of numbers shown is the fitness value of the most fit individual in the current generation.
+
 ## About this Project
 ### Origin
 This is my final project for a software engineering class I took in the Summer of 2016.  It absolutely works, but many design decisions and coding practices show my inexperience at this point.  I have plans to improve this project in the coming future.      
