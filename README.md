@@ -9,7 +9,7 @@ The numbers shown above the results are the fitness values of the most fit expre
 
 ## About this Project
 ### Origin
-This is my final project for a software engineering class I took in the Summer of 2016.  It absolutely works, but many design decisions and coding practices show my inexperience at this point.  I have plans to improve this project in the coming future.      
+This is my final project for a software engineering class I took in the Summer of 2016.  It absolutely works, but many design decisions and coding practices show my inexperience at this point.  I have plans to improve this project in the future.      
 
 ### Functionality
 To run this Evolutionary Computing System, you need to first set up a few parameters first.
