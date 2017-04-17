@@ -22,7 +22,7 @@ To run this Evolutionary Computing System, you need to set up a few parameters f
 * Mutation Percentage => Governs the ratio of expressions crossed to expressions mutated
 * Success Threshold => Defines the minimum fitness value required for the system to deem the expression equivalent
 
-Once all parameters are set, you may pass them to the ECSystem and you are ready to go.
+Once all parameters are set, you are ready to go.
 
 ![Example Parameters](ECParameters.png)
 
