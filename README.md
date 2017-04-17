@@ -14,14 +14,13 @@ This is my final project for a software engineering class I took in the Summer o
 ### Functionality
 To run this Evolutionary Computing System, you need to set up a few parameters first.
 
-* Generation size => How many expressions do we have in each generation
-* Genome size => How long can the expressions be in the initial population
-* X-Training Data => The x value we will plug into our random expressions
-* Y-Training Data => The y values we will match our output to to determine fitness
-* Fitness Threshold => What percentage of the population will be selected to go on to the next generation
-* Stagnation Threshold => If our fitness is not improving over this set number of generations, we reboot the system
-* Mutation Percentage => Of the Individuals selected for the next generation, what percentage will we mutate
-* Success Threshold => Define how close to the trainging data the generate expressions needs to be in order to be considered a success.
+* Generation size => Governs the number of expressions in each generation
+* Genome size => Governs the length of the expressions in the initial population
+* Training Data => The x and y values used to evalute an expression's fitness
+* Fitness Threshold => The percentage of the population selected for the next generation
+* Stagnation Threshold => If our fitness is not improving over this set number of generations, the EC System reboots
+* Mutation Percentage => Governs the ratio of expressions crossed to expressions mutated
+* Success Threshold => Defines the minimum fitness value required for the system to deem the expression equivalent
 
 Once all parameters are set, you may pass them to the ECSystem and you are ready to go.
 
