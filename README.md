@@ -43,7 +43,7 @@ private List<Individual> createInitialPopulation(int genNum) {
 This is my final project for a software engineering class I took in the Summer of 2016.  It absolutely works, but many design decisions and coding practices show my inexperience at this point.  
 
 ### Installation
-Currently, the only way to get this code is to clone this repository.
+Currently, the only way to get this code is to clone the repository.
 ```
 $ git clone https://github.com/rossweinstein/Evolutionary-Computing-Java
 ```
