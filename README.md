@@ -91,7 +91,7 @@ I wrote this program before I knew of JUnit. I wrote my own unit tests and they 
 There are many opportunites for improvement with this project.  Many classes, and some methods, do too much so a bit of refactoring is in order.  Also, this program can only generate basic expressions written with +, -, *, and / at the moment. I would like to improve this program to generate trigonometric functions as well.
 
 ## Resources
-To evaluate the String expressions in this project, I used [exp4j](http://www.objecthunter.net/exp4j/).
+I used [exp4j](http://www.objecthunter.net/exp4j/) to evaluate the String expressions in this project. 
 
 ## License
 [MIT License](https://en.wikipedia.org/wiki/MIT_License)
