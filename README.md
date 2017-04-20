@@ -88,7 +88,8 @@ System.out.println(evo.getSystemStatistics().toString());
 I wrote this program before I knew of JUnit. I wrote my own unit tests and they can be viewed [here](https://github.com/rossweinstein/Evolutionary-Computing-Java/tree/master/Java%20Files/unitTests).
 
 ### Future Improvements
-There are many opportunites for improvement with this project.  Many classes, and some methods, do too much so a bit of refactoring is in order.  Also, this program can only generate basic expressions written with +, -, *, and / at the moment. I would like to improve this program to generate trigonometric functions as well.
+1. Many classes, and some methods, do too much so a bit of refactoring is in order.  
+1. This program can only generate basic expressions written with +, -, *, and / at the moment. I would like to improve this program to generate trigonometric functions as well.
 
 ## Resources
 I used [exp4j](http://www.objecthunter.net/exp4j/) to evaluate the String expressions in this project. 
